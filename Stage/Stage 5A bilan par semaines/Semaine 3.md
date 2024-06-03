@@ -1,0 +1,18 @@
+[[2024-05-26]]
+[[2024-05-27]]
+[[2024-05-28]]
+[[2024-05-29]]
+[[2024-05-30]]
+[[2024-05-31]]
+DAns le script faire attention on veut la sauvegarde à chaque prompt pas à la fin de tout les prompt
+
+Fait :
+ - Workshop
+	 - ENS
+ - HikarIA : 
+	 - Base line sur GPT4o & publication Arkindex
+	 - Code du script pour le python pour remplacement de promptfoo
+		 - Structure du code
+		 - Implémentation des classes
+		 - Transfert de llava avec lmdeploy
+	 - tests de LLamafiles

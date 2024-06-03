@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "0b57a5ab35504303",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c118724378a8b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df1716a1d4c256a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7a62981d31fcee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage 5A bilan par semaines/Semaine 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "920a71f7816d9c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd70157abc47bc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3c5251f5ee89b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e7e54ada0ab417c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a56d29ba98ee1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cac838c79fb486ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0338188e111fba36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91f10f29f4e4c73a",
+    "type": "split",
+    "children": [
+      {
+        "id": "21b71b78b5e209ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ecffab868cba763",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DailyNotes/2024-06-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "430cefb87842c80b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DailyNotes/2024-06-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d71c478b0c23515e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e361946a3bfc9c23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DailyNotes/2024-06-03.md"
+              }
+            }
+          },
+          {
+            "id": "02365dcb928cc521",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "fd70157abc47bc02",
+  "lastOpenFiles": [
+    "Sujet thèse APC.md",
+    "DailyNotes/2024-06-03.md",
+    "Stage 5A bilan par semaines/Semaine 4.md",
+    "Rapport de Stage/Template Rapport 5A.md",
+    "Rapport de Stage/DDRS.md",
+    "Rapport de Stage/Créer template ppt de présentation stage.md",
+    "Stage 5A bilan par semaines/Semaine 3.md",
+    "DailyNotes/2024-05-26.md",
+    "DailyNotes/2024-05-29.md",
+    "These.pdf",
+    "DailyNotes/2024-05-30.md",
+    "DailyNotes/2024-05-31.md",
+    "DailyNotes/2024-05-27.md",
+    "Promptfoo/Script de remplacement Promptfoo.md",
+    "DailyNotes/2024-05-28.md",
+    "Leveraging Ensemble Diversity for Robust Self-Training in the Presence of Sample Selection Bias.md",
+    "2310.14814v4.pdf",
+    "Publication/SIFED.md",
+    "DailyNotes/2024-05-24.md",
+    "Stage 5A bilan par semaines/Semaine 2.md",
+    "DailyNotes/2024-05-23.md",
+    "DailyNotes/2024-05-22.md",
+    "Promptfoo/Experience Francais promptfoo.md",
+    "DailyNotes/2024-05-21.md",
+    "DailyNotes/2024-05-20.md",
+    "Stage 5A bilan par semaines/Semaine 1.md",
+    "Stage 5A bilan par semaines",
+    "Promptfoo/Promptfoo.md",
+    "DailyNotes/2024-05-15.md",
+    "Promptfoo/Untitled.canvas",
+    "Publication",
+    "Rapport de Stage",
+    "Promptfoo",
+    "DailyNotes"
+  ]
+}

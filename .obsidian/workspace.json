@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "30341b0d19f50823",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c92ffd76a93b9ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7144269c17aabf2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23e280d31cff84a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b8b535920ecc75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85dc2e4e46cc09b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0094b77367ee3c7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39d02f1b197488bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ce5019c45d5737d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb85a52c534d6a5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab4a71b4a0c50cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2937f3939aa4e616",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e099ae4fd522bec4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3324c89a75e975f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f85dc2e4e46cc09b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Stage/Thèse"
+  ]
+}

@@ -24,7 +24,7 @@ Notes : je ne commencerais pas avant novembre est-ce un problème ?!
 
 Est-ce que s'appeler Nicolas est un critère de sélection ?
 
-[[These.pdf]]
+[[Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf]]
 
 publié iti5 et master 
 

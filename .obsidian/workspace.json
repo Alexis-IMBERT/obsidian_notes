@@ -11,9 +11,12 @@
             "id": "e7144269c17aabf2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf"
+                "file": "Stage/Thèse/PhD Gauzere.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf",
+                "file": "Stage/Thèse/PhD Gauzere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf",
+                "file": "Stage/Thèse/PhD Gauzere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf"
+                "file": "Stage/Thèse/PhD Gauzere.md"
               }
             }
           }
@@ -144,9 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f85dc2e4e46cc09b",
+  "active": "e7144269c17aabf2",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Stage/Thèse/Dossier de candidature/Dossier de candidature.md",
+    "Stage/Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
+    "Stage/Thèse/PhD Gauzere.md",
+    "Stage/Thèse/Sujet thèse APC.md",
+    "Stage/Thèse/Dossier de candidature/Reelvé de notes",
+    "Stage/Thèse/Dossier de candidature",
+    "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf",
+    "Stage/Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Stage/Thèse"
   ]
 }

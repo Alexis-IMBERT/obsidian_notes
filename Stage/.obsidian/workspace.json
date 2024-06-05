@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -153,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +168,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0df1716a1d4c256a",
+  "active": "02365dcb928cc521",
   "lastOpenFiles": [
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
     "Thèse/Dossier de candidature/Dossier de candidature.md",

@@ -43,14 +43,19 @@ et autour ML
 - Vacances en stage ? (réglementation en France)
 - Faire la remarque de la semaine à 4 jours
 
+dans le groupe de promo :
+ - Victor Morel
+ - Regarder les mails INSA
 # HOW TO APPLY
 [[Dossier de candidature]]
-
 1. Send resume,
 2. academic results, 
 3. links to code or/and scientific & technical papers to the scientific contactsbelow. 
 4. ==For a better processing of your application, please add the word `[FAMOUS]` in the subject of the email.==
+
+Salaire à partir 1 janvier 2025 : 2200 brut à vérifier la grille
 benoit.gauzere@insa-rouen.fr
 paul.honeine@univ-rouen.fr
 guillaume.auzias@univ-amu.fr
 sylvain.takerkart@univ-amu.fr
+

@@ -6,8 +6,8 @@
 	- [ ] Semestre 9
 		- [ ] INSA Rouen
 		      > A demander
-		- [ ] Unniversité de Rouen
-		      > A demander
+		- [x] Unniversité de Rouen
+		      > [[attest_notes-insa2024-ai.pdf]]
 - [ ] CV A mettre à jours
 	- [ ] Stage chez Teklia
 	- [ ] Recherche de PhD

@@ -36,16 +36,7 @@ Questions :
 Dynamique autour des graphe au labo
 et autour ML
 
-## Questions & remarque sur le stage 
-- Difficulté A trouver l'information sur les rapport de stage : eg
-	- Pour la partie DDRS pas dans le plan de 4a mais à part
-	- Pour le 5a le plan de rapport est bien caché
-- Vacances en stage ? (réglementation en France)
-- Faire la remarque de la semaine à 4 jours
 
-dans le groupe de promo :
- - Victor Morel
- - Regarder les mails INSA
 # HOW TO APPLY
 [[Dossier de candidature]]
 1. Send resume,

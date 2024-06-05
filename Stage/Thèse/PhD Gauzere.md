@@ -33,6 +33,9 @@ Questions :
 	2. Explicabilité du modèle 
 	3. Modèles distribué envisagé ?
 
+Dynamique autour des graphe au labo
+et autour ML
+
 ## Questions & remarque sur le stage 
 - Difficulté A trouver l'information sur les rapport de stage : eg
 	- Pour la partie DDRS pas dans le plan de 4a mais à part

@@ -8,29 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0df1716a1d4c256a",
+            "id": "e533f55fb87a4e5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c45db8333807b190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage 5A bilan par semaines/2024-W24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -47,29 +29,12 @@
             }
           },
           {
-            "id": "0fec5b6a28602d94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Thèse/PhD_project_Gauzere_Auziad.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "233b58319d7081ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c20b1b98201e69c",
+            "id": "14ecb59c7f295d8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-03.md",
+                "file": "DailyNotes/2024-06-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,33 +42,7 @@
             }
           },
           {
-            "id": "a4093c915b5fa9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f444956e59c3b915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48c9caed8d868152",
+            "id": "c0a075a3a0bc6c13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,12 +55,38 @@
             }
           },
           {
-            "id": "043b7155a6016959",
+            "id": "b043fb95d7de8b52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-07.md",
+                "file": "DailyNotes/2024-06-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5875381b8dc2a0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134d301026c48663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,10 +235,10 @@
   "lastOpenFiles": [
     "DailyNotes/2024-06-07.md",
     "DailyNotes/2024-06-06.md",
-    "Stage 5A bilan par semaines/2024-W23.md",
     "DailyNotes/2024-06-05.md",
-    "DailyNotes/2024-06-04.md",
     "DailyNotes/2024-06-03.md",
+    "DailyNotes/2024-06-04.md",
+    "Stage 5A bilan par semaines/2024-W23.md",
     "Stage 5A bilan par semaines/2024-W24.md",
     "8.3_NLP_Language_Models.pdf",
     "2405.17927v1.pdf",

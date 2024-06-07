@@ -93,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage 5A bilan par semaines/2024-W23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage 5A bilan par semaines/2024-W23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stage 5A bilan par semaines/2024-W23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -231,14 +226,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b3ac1218145fb454",
+  "active": "e533f55fb87a4e5e",
   "lastOpenFiles": [
-    "DailyNotes/2024-06-07.md",
     "DailyNotes/2024-06-06.md",
+    "DailyNotes/2024-06-07.md",
+    "Stage 5A bilan par semaines/2024-W23.md",
     "DailyNotes/2024-06-05.md",
     "DailyNotes/2024-06-03.md",
     "DailyNotes/2024-06-04.md",
-    "Stage 5A bilan par semaines/2024-W23.md",
     "Stage 5A bilan par semaines/2024-W24.md",
     "8.3_NLP_Language_Models.pdf",
     "2405.17927v1.pdf",

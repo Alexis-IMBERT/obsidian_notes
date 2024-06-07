@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-06.md",
+                "file": "DailyNotes/2024-06-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-06.md",
+                "file": "DailyNotes/2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-06.md",
+                "file": "DailyNotes/2024-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-06.md"
+                "file": "DailyNotes/2024-06-07.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "0df1716a1d4c256a",
   "lastOpenFiles": [
-    "DailyNotes/2024-06-05.md",
     "DailyNotes/2024-06-06.md",
+    "DailyNotes/2024-06-07.md",
+    "DailyNotes/2024-06-05.md",
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
     "Stage 5A bilan par semaines/2024-W23.md",
@@ -203,7 +204,6 @@
     "DailyNotes/2024-05-30.md",
     "DailyNotes/2024-05-31.md",
     "DailyNotes/2024-05-27.md",
-    "Promptfoo/Script de remplacement Promptfoo.md",
     "2310.14814v4.pdf",
     "Stage 5A bilan par semaines",
     "Promptfoo/Untitled.canvas"

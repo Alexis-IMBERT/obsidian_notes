@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-07.md",
+                "file": "Stage 5A bilan par semaines/2024-W24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ac1218145fb454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage 5A bilan par semaines/2024-W23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,6 +53,78 @@
               "type": "pdf",
               "state": {
                 "file": "Thèse/PhD_project_Gauzere_Auziad.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "233b58319d7081ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c20b1b98201e69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4093c915b5fa9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f444956e59c3b915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48c9caed8d868152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043b7155a6016959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -110,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-07.md",
+                "file": "Stage 5A bilan par semaines/2024-W23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-07.md",
+                "file": "Stage 5A bilan par semaines/2024-W23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-07.md"
+                "file": "Stage 5A bilan par semaines/2024-W23.md"
               }
             }
           },
@@ -167,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +266,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c45db8333807b190",
+  "active": "b3ac1218145fb454",
   "lastOpenFiles": [
+    "DailyNotes/2024-06-04.md",
+    "Stage 5A bilan par semaines/2024-W23.md",
+    "DailyNotes/2024-06-03.md",
     "DailyNotes/2024-06-06.md",
-    "DailyNotes/2024-06-07.md",
     "DailyNotes/2024-06-05.md",
+    "DailyNotes/2024-06-07.md",
+    "Stage 5A bilan par semaines/2024-W24.md",
+    "8.3_NLP_Language_Models.pdf",
+    "2405.17927v1.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
-    "Stage 5A bilan par semaines/2024-W23.md",
     "Stage 5A bilan par semaines/2024-W20.md",
     "Stage 5A bilan par semaines/Semaine 1.md",
     "Stage 5A bilan par semaines/Semaine 2.md",
@@ -205,8 +295,6 @@
     "Thèse/Dossier de candidature",
     "Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf",
     "Thèse",
-    "DailyNotes/2024-06-04.md",
-    "DailyNotes/2024-06-03.md",
     "Sujet thèse APC.md",
     "Rapport de Stage/Template Rapport 5A.md",
     "Rapport de Stage/DDRS.md",
@@ -215,10 +303,6 @@
     "DailyNotes/2024-05-29.md",
     "These.pdf",
     "DailyNotes/2024-05-30.md",
-    "DailyNotes/2024-05-31.md",
-    "DailyNotes/2024-05-27.md",
-    "2310.14814v4.pdf",
-    "Stage 5A bilan par semaines",
     "Promptfoo/Untitled.canvas"
   ]
 }

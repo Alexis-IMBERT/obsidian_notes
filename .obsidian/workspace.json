@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage/DailyNotes/2024-06-09.md",
+                "file": "Stage/Thèse/Dossier de candidature/Dossier de candidature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9f4a71321a40f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lettre de motivation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage/DailyNotes/2024-06-09.md",
+                "file": "Lettre de motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage/DailyNotes/2024-06-09.md",
+                "file": "Lettre de motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage/DailyNotes/2024-06-09.md"
+                "file": "Lettre de motivation.md"
               }
             }
           },
@@ -169,10 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f85dc2e4e46cc09b",
+  "active": "e9f4a71321a40f94",
   "lastOpenFiles": [
-    "Stage/Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",
+    "Stage/Thèse/Dossier de candidature/Dossier de candidature.md",
+    "Lettre de motivation.md",
     "Stage/DailyNotes/2024-06-09.md",
+    "Stage/Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",
     "Stage/DailyNotes/2024-06-08.md",
     "Stage/Thèse/PhD Gauzere.md",
     "Stage/Stage 5A bilan par semaines/2024-W24.md",
@@ -183,7 +198,6 @@
     "Stage/Thèse/Untitled.md",
     "Stage/Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
     "Stage/DailyNotes/2024-06-05.md",
-    "Stage/Thèse/Dossier de candidature/Dossier de candidature.md",
     "Stage/Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
     "Stage/Thèse/Sujet thèse APC.md",
     "Stage/Thèse/Dossier de candidature/Reelvé de notes",

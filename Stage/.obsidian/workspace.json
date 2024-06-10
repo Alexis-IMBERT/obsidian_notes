@@ -16,6 +16,45 @@
             }
           },
           {
+            "id": "0195e286c2062f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thèse/Dossier de candidature/Dossier de candidature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cea36de4ec41726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thèse/Dossier de candidature/Dossier de candidature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fb549ebc7f07339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a90931d9a77213d",
             "type": "leaf",
             "state": {
@@ -27,87 +66,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b3ac1218145fb454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage 5A bilan par semaines/2024-W23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14ecb59c7f295d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0a075a3a0bc6c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b043fb95d7de8b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5875381b8dc2a0b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "134d301026c48663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -174,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/2024-06-10.md"
-              }
+              "state": {}
             }
           },
           {
@@ -244,9 +199,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6a90931d9a77213d",
+  "active": "c1a56d29ba98ee1e",
   "lastOpenFiles": [
+    "Thèse/Dossier de candidature/Dossier de candidature.md",
+    "DailyNotes/2024-06-09.md",
+    "Thèse/Untitled.md",
     "DailyNotes/2024-06-10.md",
+    "Thèse/Dossier de candidature/README.md",
+    "Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",
     "DailyNotes/2024-06-06.md",
     "DailyNotes/2024-06-07.md",
     "Stage 5A bilan par semaines/2024-W23.md",
@@ -257,7 +217,6 @@
     "8.3_NLP_Language_Models.pdf",
     "2405.17927v1.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
-    "Thèse/Dossier de candidature/Dossier de candidature.md",
     "Stage 5A bilan par semaines/2024-W20.md",
     "Stage 5A bilan par semaines/Semaine 1.md",
     "Stage 5A bilan par semaines/Semaine 2.md",
@@ -267,7 +226,6 @@
     "Stage 5A bilan par semaines/2024-W23_.md",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/PhD Gauzere.md",
-    "Thèse/Untitled.md",
     "Thèse/Sujet thèse APC.md",
     "Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
     "Thèse/Dossier de candidature/Reelvé de notes",
@@ -279,9 +237,6 @@
     "Rapport de Stage/DDRS.md",
     "Rapport de Stage/Créer template ppt de présentation stage.md",
     "DailyNotes/2024-05-26.md",
-    "DailyNotes/2024-05-29.md",
-    "These.pdf",
-    "DailyNotes/2024-05-30.md",
     "Promptfoo/Untitled.canvas"
   ]
 }

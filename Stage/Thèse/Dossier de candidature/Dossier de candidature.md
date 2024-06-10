@@ -1,3 +1,9 @@
+---
+tags:
+  - these
+  - PhD
+  - CV
+---
 - [ ] Relevé de notes
 	- [x] Semestre 7 
 	      > [[ITI4_Sesmtre7-22-23 (glissé(e)s).pdf]]

@@ -17,5 +17,5 @@ tags:
 - [ ] CV A mettre à jours
 	- [ ] Stage chez Teklia
 	- [ ] Recherche de PhD
-- [ ] [[Stage/Thèse/Lettre de motivation]]
+- [ ] [[Stage/Thèse/Dossier de candidature/Lettre de motivation]]
 

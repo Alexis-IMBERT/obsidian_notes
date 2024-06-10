@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettre de motivation.md",
+                "file": "DailyNotes/2024-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lettre de motivation.md",
+                "file": "DailyNotes/2024-06-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lettre de motivation.md"
+                "file": "DailyNotes/2024-06-10.md"
               }
             }
           },
@@ -170,11 +169,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0195e286c2062f2a",
+  "active": "e533f55fb87a4e5e",
   "lastOpenFiles": [
-    "Thèse/Dossier de candidature/Dossier de candidature.md",
     "Lettre de motivation.md",
     "DailyNotes/2024-06-10.md",
+    "Thèse/Dossier de candidature/Dossier de candidature.md",
     "DailyNotes/2024-06-09.md",
     "Thèse/Untitled.md",
     "Thèse/Dossier de candidature/README.md",

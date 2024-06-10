@@ -14,8 +14,8 @@ tags:
 		      > A demander
 		- [x] Unniversité de Rouen
 		      > [[attest_notes-insa2024-ai.pdf]]
-- [ ] CV A mettre à jours
-	- [ ] Stage chez Teklia
-	- [ ] Recherche de PhD
+- [x] CV A mettre à jours
+	- [x] Stage chez Teklia
+	- [x] Recherche de PhD
 - [ ] [[Stage/Thèse/Dossier de candidature/Lettre de motivation]]
 

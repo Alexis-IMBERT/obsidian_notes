@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "68e2b46fa2025533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0195e286c2062f2a",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +183,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e533f55fb87a4e5e",
+  "active": "68e2b46fa2025533",
   "lastOpenFiles": [
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",

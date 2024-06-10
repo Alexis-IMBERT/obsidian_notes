@@ -11,8 +11,13 @@
             "id": "e533f55fb87a4e5e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -133,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/2024-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DailyNotes/2024-06-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/2024-06-10.md"
+              }
             }
           },
           {
@@ -199,7 +208,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c1a56d29ba98ee1e",
+  "active": "e533f55fb87a4e5e",
   "lastOpenFiles": [
     "Thèse/Dossier de candidature/Dossier de candidature.md",
     "DailyNotes/2024-06-09.md",

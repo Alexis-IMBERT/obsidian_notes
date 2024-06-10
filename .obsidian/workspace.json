@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage/Thèse/PhD Gauzere.md",
+                "file": "Stage/Thèse/Dossier de candidature/Lettre de motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage/Thèse/PhD Gauzere.md",
+                "file": "Stage/Thèse/Dossier de candidature/Lettre de motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage/Thèse/PhD Gauzere.md"
+                "file": "Stage/Thèse/Dossier de candidature/Lettre de motivation.md"
               }
             }
           },
@@ -182,15 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f85dc2e4e46cc09b",
+  "active": "e9f4a71321a40f94",
   "lastOpenFiles": [
+    "Stage/Thèse/PhD Gauzere.md",
+    "Stage/Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Stage/Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
     "Stage/Thèse/Dossier de candidature/Dossier de candidature.md",
     "Stage/Thèse/Dossier de candidature/Lettre de motivation.md",
     "Stage/DailyNotes/2024-06-09.md",
     "Stage/Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",
     "Stage/DailyNotes/2024-06-08.md",
-    "Stage/Thèse/PhD Gauzere.md",
     "Stage/Stage 5A bilan par semaines/2024-W24.md",
     "Stage/DailyNotes/2024-06-07.md",
     "Stage/DailyNotes/2024-06-06.md",
@@ -203,8 +204,6 @@
     "Stage/Thèse/Sujet thèse APC.md",
     "Stage/Thèse/Dossier de candidature/Reelvé de notes",
     "Stage/Thèse/Dossier de candidature",
-    "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf",
-    "Stage/Thèse/PhD_project_Gauzere_Auziad.pdf",
-    "Stage/Thèse"
+    "Stage/Thèse/Approches d’IA pour l’évaluation et l’alignement de compétences dans les curriculums universitaires.pdf"
   ]
 }

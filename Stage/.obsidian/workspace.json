@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e533f55fb87a4e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68e2b46fa2025533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0195e286c2062f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lettre de motivation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "080bdf52047b78a3",
             "type": "leaf",
             "state": {
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,14 +158,16 @@
   },
   "active": "080bdf52047b78a3",
   "lastOpenFiles": [
-    "Thèse/PhD Gauzere.md",
-    "DailyNotes/2024-06-11.md",
-    "Thèse/Dossier de candidature/Dossier de candidature.md",
-    "Lettre de motivation.md",
-    "DailyNotes/2024-06-10.md",
-    "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
-    "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
     "Thèse/Dossier de candidature/Lettre de motivation.md",
+    "Lettre de motivation.md",
+    "Thèse/Dossier de candidature/Dossier de candidature.md",
+    "attest_notes-insa2024-ai.pdf.md",
+    "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
+    "LoRA Learning less forgetting less.md",
+    "DailyNotes/2024-06-10.md",
+    "DailyNotes/2024-06-11.md",
+    "Thèse/PhD Gauzere.md",
+    "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/Lettre de motivation.md",
     "DailyNotes/2024-06-09.md",
     "Thèse/Untitled.md",
@@ -229,11 +191,9 @@
     "Stage 5A bilan par semaines/Semaine 3.md",
     "Stage 5A bilan par semaines/2024-W23_.md",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
-    "Thèse/Sujet thèse APC.md",
     "Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
     "Thèse/Dossier de candidature/Reelvé de notes",
     "Thèse/Dossier de candidature",
-    "Sujet thèse APC.md",
     "Promptfoo/Untitled.canvas"
   ]
 }

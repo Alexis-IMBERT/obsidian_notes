@@ -24,8 +24,13 @@
             "id": "757ddcd9641e2c17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -166,8 +171,11 @@
   },
   "active": "080bdf52047b78a3",
   "lastOpenFiles": [
-    "Thèse/PhD_project_Gauzere_Auziad.pdf",
+    "DailyNotes/2024-06-12.md",
     "DailyNotes/2024-06-11.md",
+    "DailyNotes/2024-05-26.md",
+    "Stage 5A bilan par semaines/2024-W22.md",
+    "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/Dossier de candidature/Lettre de motivation.md",
     "Lettre de motivation.md",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
@@ -196,8 +204,6 @@
     "Stage 5A bilan par semaines/Semaine 1.md",
     "Stage 5A bilan par semaines/Semaine 2.md",
     "Stage 5A bilan par semaines/2024-W21.md",
-    "Stage 5A bilan par semaines/2024-W22.md",
-    "Stage 5A bilan par semaines/Semaine 3.md",
     "Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
     "Thèse/Dossier de candidature/Reelvé de notes",
     "Thèse/Dossier de candidature",

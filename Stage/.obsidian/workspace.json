@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "757ddcd9641e2c17",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -158,6 +166,7 @@
   },
   "active": "080bdf52047b78a3",
   "lastOpenFiles": [
+    "DailyNotes/2024-06-11.md",
     "Thèse/Dossier de candidature/Lettre de motivation.md",
     "Lettre de motivation.md",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
@@ -165,7 +174,6 @@
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
     "LoRA Learning less forgetting less.md",
     "DailyNotes/2024-06-10.md",
-    "DailyNotes/2024-06-11.md",
     "Thèse/PhD Gauzere.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/Lettre de motivation.md",

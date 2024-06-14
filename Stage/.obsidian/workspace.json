@@ -11,8 +11,39 @@
             "id": "080bdf52047b78a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Thèse/PhD Gauzere.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebd7dc4c6ea5b6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idée d'amélioration CV.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ad4f15382c58e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-14-Entretien oral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-12.md",
+                "file": "DailyNotes/2024-06-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#gauzere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +106,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -94,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DailyNotes/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/2024-06-14.md"
+              }
             }
           },
           {
@@ -160,15 +198,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "080bdf52047b78a3",
+  "active": "757ddcd9641e2c17",
   "lastOpenFiles": [
-    "DailyNotes/2024-06-14.md",
     "DailyNotes/2024-06-13.md",
     "DailyNotes/2024-06-12.md",
+    "Thèse/PhD Gauzere.md",
+    "idée d'amélioration CV.md",
+    "2024-06-14-Entretien oral.md",
+    "Thèse/PhD_project_Gauzere_Auziad.pdf",
+    "DailyNotes/2024-06-14.md",
     "DailyNotes/2024-06-11.md",
     "DailyNotes/2024-05-26.md",
     "Stage 5A bilan par semaines/2024-W22.md",
-    "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/Dossier de candidature/Lettre de motivation.md",
     "Lettre de motivation.md",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
@@ -176,7 +217,6 @@
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
     "LoRA Learning less forgetting less.md",
     "DailyNotes/2024-06-10.md",
-    "Thèse/PhD Gauzere.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/Lettre de motivation.md",
     "DailyNotes/2024-06-09.md",
@@ -193,8 +233,6 @@
     "8.3_NLP_Language_Models.pdf",
     "2405.17927v1.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
-    "Stage 5A bilan par semaines/2024-W20.md",
-    "Stage 5A bilan par semaines/Semaine 1.md",
     "Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
     "Thèse/Dossier de candidature/Reelvé de notes",
     "Thèse/Dossier de candidature",

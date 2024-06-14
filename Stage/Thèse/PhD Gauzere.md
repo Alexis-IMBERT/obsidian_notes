@@ -51,3 +51,7 @@ guillaume.auzias@univ-amu.fr
 sylvain.takerkart@univ-amu.fr
 
 https://nuage.insa-rouen.fr/index.php/s/joBwqXer6KR59e3
+
+
+[[2024-06-14-Entretien oral]]
+[[idée d'amélioration CV]] 

@@ -4,82 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "25595c649a298786",
+        "id": "eebb1c0f07e8cf40",
         "type": "tabs",
         "children": [
+          {
+            "id": "f89ad63ea5d24437",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "757ddcd9641e2c17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-14.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43ea579a561ca499",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "6c118724378a8b82",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "78284f31192c14a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe23f8787ac95a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f0be70a3f401e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8a9e65fb927466c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-13.md",
+                "file": "DailyNotes/2024-06-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-14.md",
+                "file": "DailyNotes/2024-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-14.md",
+                "file": "DailyNotes/2024-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-14.md"
+                "file": "DailyNotes/2024-06-17.md"
               }
             }
           },
@@ -227,8 +169,11 @@
   },
   "active": "757ddcd9641e2c17",
   "lastOpenFiles": [
-    "Stage 5A bilan par semaines/2024-W24.md",
+    "Stage 5A bilan par semaines/2024-W25.md",
+    "DailyNotes/2024-06-17.md",
+    "DailyNotes/2024-06-16.md",
     "DailyNotes/2024-06-14.md",
+    "Stage 5A bilan par semaines/2024-W24.md",
     "DailyNotes/2024-06-13.md",
     "DailyNotes/2024-06-12.md",
     "DailyNotes/2024-06-11.md",
@@ -254,9 +199,6 @@
     "DailyNotes/2024-06-06.md",
     "DailyNotes/2024-06-07.md",
     "Stage 5A bilan par semaines/2024-W23.md",
-    "DailyNotes/2024-06-05.md",
-    "DailyNotes/2024-06-03.md",
-    "DailyNotes/2024-06-04.md",
     "8.3_NLP_Language_Models.pdf",
     "2405.17927v1.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",

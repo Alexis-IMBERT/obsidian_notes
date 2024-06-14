@@ -11,13 +11,8 @@
             "id": "080bdf52047b78a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -99,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/2024-06-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +162,9 @@
   },
   "active": "080bdf52047b78a3",
   "lastOpenFiles": [
-    "DailyNotes/2024-06-12.md",
+    "DailyNotes/2024-06-14.md",
     "DailyNotes/2024-06-13.md",
+    "DailyNotes/2024-06-12.md",
     "DailyNotes/2024-06-11.md",
     "DailyNotes/2024-05-26.md",
     "Stage 5A bilan par semaines/2024-W22.md",
@@ -203,7 +195,6 @@
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
     "Stage 5A bilan par semaines/2024-W20.md",
     "Stage 5A bilan par semaines/Semaine 1.md",
-    "Stage 5A bilan par semaines/Semaine 2.md",
     "Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
     "Thèse/Dossier de candidature/Reelvé de notes",
     "Thèse/Dossier de candidature",

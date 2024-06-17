@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-17.md",
+                "file": "DailyNotes/2024-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-17.md",
+                "file": "DailyNotes/2024-06-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-17.md"
+                "file": "DailyNotes/2024-06-11.md"
               }
             }
           },
@@ -172,10 +171,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "757ddcd9641e2c17",
+  "active": "f89ad63ea5d24437",
   "lastOpenFiles": [
-    "DailyNotes/2024-06-11.md",
     "DailyNotes/2024-06-17.md",
+    "DailyNotes/2024-06-11.md",
     "Stage 5A bilan par semaines/2024-W25.md",
     "DailyNotes/2024-06-16.md",
     "DailyNotes/2024-06-14.md",

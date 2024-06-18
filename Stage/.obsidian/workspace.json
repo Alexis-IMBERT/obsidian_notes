@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gauzere",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,13 +75,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -167,7 +165,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "757ddcd9641e2c17",
+  "active": "c1a56d29ba98ee1e",
   "lastOpenFiles": [
     "DailyNotes/2024-06-17.md",
     "DailyNotes/2024-06-18.md",

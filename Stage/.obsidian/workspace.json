@@ -21,7 +21,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-20.md",
+                "file": "Thèse/PhD Gauzere.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a387eafde5e85ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Question-début-thèse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-20.md",
+                "file": "Question-début-thèse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-20.md",
+                "file": "Question-début-thèse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-20.md"
+                "file": "Question-début-thèse.md"
               }
             }
           },
@@ -178,11 +191,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "00804d7fe943af68",
+  "active": "a387eafde5e85ba5",
   "lastOpenFiles": [
+    "Thèse/PhD Gauzere.md",
+    "Question-début-thèse.md",
+    "2024-06-14-Entretien oral.md",
+    "DailyNotes/2024-06-21.md",
+    "DailyNotes/2024-06-20.md",
     "DailyNotes/2024-06-18.md",
     "DailyNotes/2024-06-19.md",
-    "DailyNotes/2024-06-20.md",
     "Stage 5A bilan par semaines/2024-W25.md",
     "DailyNotes/2024-06-17.md",
     "DailyNotes/2024-06-14.md",
@@ -192,9 +209,7 @@
     "DailyNotes/2024-06-13.md",
     "DailyNotes/2024-06-12.md",
     "DailyNotes/2024-06-10.md",
-    "Thèse/PhD Gauzere.md",
     "idée d'amélioration CV.md",
-    "2024-06-14-Entretien oral.md",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "DailyNotes/2024-05-26.md",
     "Stage 5A bilan par semaines/2024-W22.md",
@@ -207,8 +222,6 @@
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/Lettre de motivation.md",
     "DailyNotes/2024-06-09.md",
-    "Thèse/Untitled.md",
-    "Thèse/Dossier de candidature/README.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",
     "8.3_NLP_Language_Models.pdf",
     "2405.17927v1.pdf",

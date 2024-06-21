@@ -4,7 +4,14 @@
 ### [[Présentation de l'entreprise]]
 ### [[Présentation du sujet]]
 
-## Dévellopement
+## Le site objectif
+### Quels éléments avons-nous besoin pour arrivé au site
+- Photo segmentation in image
+- Photo rotation classification
+- Model de vision pour l'embeding
+
+> Comment intégrer la partie LLM -> tags ?
+
 
 ## [[DDRS]]
 

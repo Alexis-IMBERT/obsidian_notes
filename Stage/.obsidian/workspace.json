@@ -24,13 +24,8 @@
             "id": "fe78e2bfd3857d9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "voxel 51.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "voxel 51.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "voxel 51.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "voxel 51.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +169,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c1a56d29ba98ee1e",
+  "active": "fe78e2bfd3857d9b",
   "lastOpenFiles": [
+    "voxel 51.md",
     "Thèse/Untitled",
     "Réunion avec Thierry - Unniv Rouen.md",
     "Réunion Recherche.md",
@@ -215,7 +207,6 @@
     "8.3_NLP_Language_Models.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
-    "Thèse/Dossier de candidature/Reelvé de notes",
     "Promptfoo/Untitled.canvas"
   ]
 }

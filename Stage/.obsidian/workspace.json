@@ -19,8 +19,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe78e2bfd3857d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rapport de Stage/Présentation du sujet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d28a9f1bd5734778",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rapport de Stage/Rapport de stage 5A.md",
+                "file": "Rapport de Stage/Présentation du sujet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rapport de Stage/Rapport de stage 5A.md",
+                "file": "Rapport de Stage/Présentation du sujet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rapport de Stage/Rapport de stage 5A.md"
+                "file": "Rapport de Stage/Présentation du sujet.md"
               }
             }
           },
@@ -156,19 +178,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4af27a86885d502c",
+  "active": "fe78e2bfd3857d9b",
   "lastOpenFiles": [
+    "Rapport de Stage/Rapport de stage 5A.md",
+    "Rapport de Stage/DDRS.md",
     "Rapport de Stage/Template Rapport 5A.md",
     "Rapport de Stage/Présentation du sujet.md",
     "Rapport de Stage/Présentation de l'entreprise.md",
-    "Rapport de Stage/Rapport de stage 5A.md",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
     "DailyNotes/2024-05-21.md",
     "Promptfoo/Experience Francais promptfoo.md",
     "Publication/SIFED.md",
     "LLaVA.md",
     "Stage 5A bilan par semaines/2024-W26.md",
-    "Rapport de Stage/DDRS.md",
     "Rapport de Stage/Créer template ppt de présentation stage.md",
     "Rapport de Stage/conclusion.md",
     "Promptfoo/Choix des modèles à tester dans promptfoo.md",

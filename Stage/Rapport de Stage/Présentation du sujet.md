@@ -1,3 +1,11 @@
+# Sujet dans la convention de stage
+Le sujet du stage est Modèles de langue multimodaux pour la compréhension automatique de documents.
+Les activités confiées au stagiaire sont les suivantes, sous réserve de l'interdiction de lui confier des tâches dangereuses pour sa santé et sa sécurité :
+Dans le cadre de deux projets de recherche (HikarIA et FINLAM), nous souhaitons utiliser des LLM sur des images de documents. Le stage s'intéresserait à voir les limites des modèles existants et à trouver comment dépasser ses limites.
+Puisque ces modèles sont assez difficiles à ré-entraîner tels quels, une tâche serait de faire du "model distillation", qui consiste à développer un petit modèle à partir du modèle initial, que l'on peut ensuite ré-entraîner sur nos données et nos tâches. Ces plus petits modèles pourront ensuite être évalués sur la tâche de description d'images mais aussi sur les tâches du projet FINLAM (reconnaissance de texte, extraction d'informations précises à partir d'un prompt, etc..).
+
+
+# Présentation du sujet 4A
 Le stage s'articule autour d'un projet de recherche réalisé avec le
 musée Guimet[^1].
 

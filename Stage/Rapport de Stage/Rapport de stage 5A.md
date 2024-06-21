@@ -14,5 +14,7 @@
 
 
 ## [[DDRS]]
+> est-ce que je garde une partie dédié ou est-ce que je met un encare dans chaque cas ? ou mélange des 2 ?
+> 
 
 ## [[conclusion]]

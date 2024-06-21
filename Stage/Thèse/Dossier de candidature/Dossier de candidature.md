@@ -19,3 +19,7 @@ tags:
 	- [x] Recherche de PhD
 - [ ] [[Stage/Thèse/Dossier de candidature/Lettre de motivation]]
 
+[[Alexis IMBERT - CV - thses2024.pdf]]
+[[attest_notes-insa2024-ai.pdf]]
+
+[[README]]

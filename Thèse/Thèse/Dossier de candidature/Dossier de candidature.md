@@ -22,7 +22,7 @@ tags:
 [[Alexis IMBERT - CV - thses2024.pdf]]
 [[attest_notes-insa2024-ai.pdf]]
 [[Thèse/Dossier de candidature/Lettre de motivation|Lettre de motivation]]
-[[Lettre de motivation]]
+[[Thèse/Lettre de motivation]]
 
 
 [[README]]

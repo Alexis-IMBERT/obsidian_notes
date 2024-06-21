@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rapport de Stage/Présentation du sujet.md",
+                "file": "voxel 51.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rapport de Stage/Présentation du sujet.md",
+                "file": "voxel 51.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rapport de Stage/Présentation du sujet.md",
+                "file": "voxel 51.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rapport de Stage/Présentation du sujet.md"
+                "file": "voxel 51.md"
               }
             }
           },
@@ -178,12 +178,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fe78e2bfd3857d9b",
+  "active": "c1a56d29ba98ee1e",
   "lastOpenFiles": [
+    "Thèse/Untitled",
+    "Réunion avec Thierry - Unniv Rouen.md",
+    "Réunion Recherche.md",
+    "2405.17927v1.pdf",
+    "2310.14814v4.pdf",
+    "Rapport de Stage/Présentation du sujet.md",
+    "2024-06-14-Entretien oral.md",
     "Rapport de Stage/Rapport de stage 5A.md",
     "Rapport de Stage/DDRS.md",
     "Rapport de Stage/Template Rapport 5A.md",
-    "Rapport de Stage/Présentation du sujet.md",
     "Rapport de Stage/Présentation de l'entreprise.md",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
     "DailyNotes/2024-05-21.md",
@@ -202,20 +208,14 @@
     "DailyNotes/2024-06-17.md",
     "DailyNotes/2024-06-20.md",
     "DailyNotes/2024-06-21.md",
-    "Question-début-thèse.md",
-    "Thèse/PhD Gauzere.md",
-    "2024-06-14-Entretien oral.md",
-    "DailyNotes/2024-06-14.md",
-    "DailyNotes/2024-06-11.md",
+    "Thèse/Question-début-thèse.md",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",
     "8.3_NLP_Language_Models.pdf",
-    "2405.17927v1.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/attest_notes-insa2024-ai.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/ITI4_Sesmtre7-22-23 (glissé(e)s).pdf",
     "Thèse/Dossier de candidature/Reelvé de notes",
-    "Thèse/Dossier de candidature",
     "Promptfoo/Untitled.canvas"
   ]
 }

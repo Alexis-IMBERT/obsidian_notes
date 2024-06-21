@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question-début-thèse.md",
+                "file": "DailyNotes/2024-06-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Question-début-thèse.md",
+                "file": "DailyNotes/2024-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Question-début-thèse.md",
+                "file": "DailyNotes/2024-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Question-début-thèse.md"
+                "file": "DailyNotes/2024-06-21.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "a387eafde5e85ba5",
   "lastOpenFiles": [
-    "Thèse/PhD Gauzere.md",
     "Question-début-thèse.md",
+    "Thèse/PhD Gauzere.md",
     "2024-06-14-Entretien oral.md",
     "DailyNotes/2024-06-21.md",
     "DailyNotes/2024-06-20.md",

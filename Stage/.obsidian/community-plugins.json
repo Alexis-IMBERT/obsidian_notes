@@ -1,5 +1,11 @@
 [
   "calendar",
   "obsidian-importer",
-  "obsidian-git"
+  "obsidian-git",
+  "graph-analysis",
+  "obsidian-kanban",
+  "quick-latex",
+  "obsidian-table-generator",
+  "obsidian-plugin-toc",
+  "chronology"
 ]

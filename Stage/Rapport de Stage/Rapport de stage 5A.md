@@ -10,7 +10,7 @@
 - Photo rotation classification
 - Model de vision pour l'embeding
 
-> Comment intégrer la partie LLM -> tags ?
+> Comment intégrer la partie LLM -> création de tags par LLM ?
 
 
 ## [[DDRS]]

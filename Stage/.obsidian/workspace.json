@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44540e453eeb3770",
+        "id": "95678caf6d04a9f9",
         "type": "tabs",
         "children": [
           {
-            "id": "a387eafde5e85ba5",
+            "id": "4af27a86885d502c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thèse/Dossier de candidature/Dossier de candidature.md",
+                "file": "Rapport de Stage/Template Rapport 5A.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,11 +21,55 @@
             }
           },
           {
-            "id": "5289a9d304e71460",
+            "id": "81726329c5cf8dcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rapport de Stage/Présentation du sujet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f08a55bfbab7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rapport de Stage/Présentation de l'entreprise.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "365dab4dab62b1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rapport de Stage/Template Rapport 5A.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52ad8b2c9413cddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rapport de Stage/Présentation de l'entreprise.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -61,7 +105,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -95,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rapport de Stage/Présentation du sujet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rapport de Stage/Présentation du sujet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rapport de Stage/Présentation du sujet.md"
+              }
             }
           },
           {
@@ -161,9 +209,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5289a9d304e71460",
+  "active": "81726329c5cf8dcc",
   "lastOpenFiles": [
+    "Rapport de Stage/Présentation de l'entreprise.md",
+    "Rapport de Stage/Présentation du sujet.md",
+    "Rapport de Stage/Template Rapport 5A.md",
+    "Rapport de Stage/Rapport de stage 5A.md",
     "Thèse/Dossier de candidature/Dossier de candidature.md",
+    "DailyNotes/2024-05-21.md",
+    "Promptfoo/Experience Francais promptfoo.md",
+    "Publication/SIFED.md",
+    "LLaVA.md",
+    "Stage 5A bilan par semaines/2024-W26.md",
+    "Rapport de Stage/DDRS.md",
+    "Rapport de Stage/Créer template ppt de présentation stage.md",
+    "Rapport de Stage/conclusion.md",
+    "Promptfoo/Choix des modèles à tester dans promptfoo.md",
+    "DailyNotes/2024-06-09.md",
     "Stage 5A bilan par semaines/2024-W25.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "DailyNotes/2024-06-19.md",
@@ -176,21 +238,8 @@
     "2024-06-14-Entretien oral.md",
     "DailyNotes/2024-06-14.md",
     "DailyNotes/2024-06-11.md",
-    "DailyNotes/2024-06-16.md",
-    "Stage 5A bilan par semaines/2024-W24.md",
-    "DailyNotes/2024-06-13.md",
-    "DailyNotes/2024-06-12.md",
-    "DailyNotes/2024-06-10.md",
-    "idée d'amélioration CV.md",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
-    "DailyNotes/2024-05-26.md",
-    "Stage 5A bilan par semaines/2024-W22.md",
-    "Thèse/Dossier de candidature/Lettre de motivation.md",
-    "Lettre de motivation.md",
-    "attest_notes-insa2024-ai.pdf.md",
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
-    "LoRA Learning less forgetting less.md",
-    "Thèse/Lettre de motivation.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",
     "8.3_NLP_Language_Models.pdf",
     "2405.17927v1.pdf",

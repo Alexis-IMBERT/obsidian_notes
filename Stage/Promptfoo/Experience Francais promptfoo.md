@@ -4,9 +4,7 @@ tags:
 ---
 Promptfoo
 * Modèles :
-	* [[LLaVA 7B Mistral]]
-	* [[LLaVA 13B]]
-	* [[LLaVA LLAMA 3]]
+	* [[LLaVA]]
 	* [[BLIP]]
 	* [[CLIP]]
 	* [[Google PaliGemma]]

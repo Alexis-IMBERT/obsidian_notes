@@ -4,8 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "44540e453eeb3770",
+        "type": "tabs",
+        "dimension": 53.91849529780565,
+        "children": [
+          {
+            "id": "a387eafde5e85ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage 5A bilan par semaines/2024-W25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "eebb1c0f07e8cf40",
         "type": "tabs",
+        "dimension": 46.08150470219436,
         "children": [
           {
             "id": "f89ad63ea5d24437",
@@ -16,12 +37,12 @@
             }
           },
           {
-            "id": "00804d7fe943af68",
+            "id": "3ad3073ea33dcab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thèse/PhD Gauzere.md",
+                "file": "DailyNotes/2024-06-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +50,12 @@
             }
           },
           {
-            "id": "a387eafde5e85ba5",
+            "id": "59b66c422c8b0e9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-21.md",
+                "file": "DailyNotes/2024-06-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +63,7 @@
             }
           },
           {
-            "id": "757ddcd9641e2c17",
+            "id": "95c1422da8e18f40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,9 +74,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1327d39c63d7b401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "423b01ff679b4c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-21.md",
+                "file": "Stage 5A bilan par semaines/2024-W25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-21.md",
+                "file": "Stage 5A bilan par semaines/2024-W25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-21.md"
+                "file": "Stage 5A bilan par semaines/2024-W25.md"
               }
             }
           },
@@ -193,15 +240,15 @@
   },
   "active": "a387eafde5e85ba5",
   "lastOpenFiles": [
+    "DailyNotes/2024-06-19.md",
+    "Stage 5A bilan par semaines/2024-W25.md",
+    "DailyNotes/2024-06-18.md",
+    "DailyNotes/2024-06-17.md",
+    "DailyNotes/2024-06-20.md",
+    "DailyNotes/2024-06-21.md",
     "Question-début-thèse.md",
     "Thèse/PhD Gauzere.md",
     "2024-06-14-Entretien oral.md",
-    "DailyNotes/2024-06-21.md",
-    "DailyNotes/2024-06-20.md",
-    "DailyNotes/2024-06-18.md",
-    "DailyNotes/2024-06-19.md",
-    "Stage 5A bilan par semaines/2024-W25.md",
-    "DailyNotes/2024-06-17.md",
     "DailyNotes/2024-06-14.md",
     "DailyNotes/2024-06-11.md",
     "DailyNotes/2024-06-16.md",

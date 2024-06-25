@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-24.md",
+                "file": "DailyNotes/2024-06-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-24.md",
+                "file": "DailyNotes/2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-24.md",
+                "file": "DailyNotes/2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-24.md"
+                "file": "DailyNotes/2024-06-25.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -203,8 +203,9 @@
   },
   "active": "10c6c8413fd6b9a9",
   "lastOpenFiles": [
-    "Stage 5A bilan par semaines/2024-W26.md",
     "DailyNotes/2024-06-24.md",
+    "DailyNotes/2024-06-25.md",
+    "Stage 5A bilan par semaines/2024-W26.md",
     "Stage 5A bilan par semaines/2024-W25.md",
     "DailyNotes/2024-06-17.md",
     "Untitled Kanban.md",
@@ -232,7 +233,6 @@
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "DailyNotes/2024-06-19.md",
     "DailyNotes/2024-06-18.md",
-    "DailyNotes/2024-06-20.md",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - stage 2023 (1).pdf",

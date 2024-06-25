@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-26.md",
+                "file": "DailyNotes/2024-06-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-26.md",
+                "file": "DailyNotes/2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-26.md",
+                "file": "DailyNotes/2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-26.md"
+                "file": "DailyNotes/2024-06-25.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -203,8 +203,8 @@
   },
   "active": "10c6c8413fd6b9a9",
   "lastOpenFiles": [
-    "DailyNotes/2024-06-24.md",
     "DailyNotes/2024-06-26.md",
+    "DailyNotes/2024-06-24.md",
     "DailyNotes/2024-06-25.md",
     "Stage 5A bilan par semaines/2024-W26.md",
     "Stage 5A bilan par semaines/2024-W25.md",

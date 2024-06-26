@@ -39,15 +39,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comment classer les tags.md",
+                "file": "DailyNotes/2024-06-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "d191ee20a0af47c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comment classer les tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comment classer les tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "comment classer les tags.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +205,10 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "b8e608242c12b46f",
+  "active": "d191ee20a0af47c0",
   "lastOpenFiles": [
+    "DailyNotes/2024-06-28.md",
+    "DailyNotes/2024-06-27.md",
     "DailyNotes/2024-06-26.md",
     "comment classer les tags.md",
     "Stage 5A bilan par semaines/2024-W26.md",
@@ -230,8 +236,6 @@
     "LLaVA.md",
     "Rapport de Stage/Créer template ppt de présentation stage.md",
     "Rapport de Stage/conclusion.md",
-    "Promptfoo/Choix des modèles à tester dans promptfoo.md",
-    "DailyNotes/2024-06-09.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",

@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-27.md",
+                "file": "DailyNotes/2024-06-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9daa6802a14845e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sondage de de mi stage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-27.md",
+                "file": "sondage de de mi stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-27.md",
+                "file": "sondage de de mi stage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-27.md"
+                "file": "sondage de de mi stage.md"
               }
             }
           },
@@ -188,12 +201,14 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "d191ee20a0af47c0",
+  "active": "9daa6802a14845e1",
   "lastOpenFiles": [
     "DailyNotes/2024-06-28.md",
+    "sondage de de mi stage.md",
+    "Rapport de Stage/Présentation du sujet.md",
+    "DailyNotes/2024-06-27.md",
     "Stage 5A bilan par semaines/2024-W26.md",
     "DailyNotes/2024-06-26.md",
-    "DailyNotes/2024-06-27.md",
     "attest_notes-insa2024-ai.pdf.md",
     "comment classer les tags.md",
     "Stage 5A bilan par semaines/2024-W25.md",
@@ -207,7 +222,6 @@
     "Réunion Recherche.md",
     "2405.17927v1.pdf",
     "2310.14814v4.pdf",
-    "Rapport de Stage/Présentation du sujet.md",
     "2024-06-14-Entretien oral.md",
     "Rapport de Stage/Rapport de stage 5A.md",
     "Rapport de Stage/DDRS.md",
@@ -218,7 +232,6 @@
     "Promptfoo/Experience Francais promptfoo.md",
     "Publication/SIFED.md",
     "LLaVA.md",
-    "Rapport de Stage/Créer template ppt de présentation stage.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",

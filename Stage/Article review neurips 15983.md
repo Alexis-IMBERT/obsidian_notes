@@ -47,3 +47,6 @@ Utilisation de l'algorithme hongrois
 > 
 
 
+### Inference speed :
+> seams to be fast
+> Dans les résultats manque peut etre d'un tableau de comparaison global : (Faster DANS )

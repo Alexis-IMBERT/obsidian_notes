@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +203,7 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "75aa22ed8d6a769a",
+  "active": "c1a56d29ba98ee1e",
   "lastOpenFiles": [
     "DailyNotes/2024-06-27.md",
     "Article review neurips 15983.md",

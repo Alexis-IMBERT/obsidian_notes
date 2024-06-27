@@ -1,8 +1,14 @@
+---
+tags:
+  - review
+---
  [Papier](https://cloud.teklia.com/index.php/apps/onlyoffice/s/YFq4mDGy54ZcGLi?fileId=476136)
+
+Neurips : prestigieuse conférence de deeplearning 
 
 # Abstract 
 #ATR
-Reconnaissance de ligne du #Latin, #Chinoix " #ciphered "
+Reconnaissance de ligne du #Latin, #Chinoix " #ciphered " #scene-texte 
 Fonctionnement du modèle : Traitement parallèle de ligne 
 # introduction
 Contribution : 

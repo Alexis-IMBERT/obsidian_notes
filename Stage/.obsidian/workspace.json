@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4027dc32ebceed31",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38643f81994fddbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A faire Week 27 & 28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "6c6ccc488b489b57",
         "type": "tabs",
         "children": [
@@ -32,6 +13,19 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "38643f81994fddbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -87,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +216,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,10 +238,10 @@
   "active": "38643f81994fddbe",
   "lastOpenFiles": [
     "DailyNotes/2024-06-28.md",
-    "DailyNotes/2024-06-27.md",
-    "Stage 5A bilan par semaines/2024-W26.md",
-    "A faire Week 27 & 28.md",
     "Article review neurips 5861.md",
+    "DailyNotes/2024-06-27.md",
+    "A faire Week 27 & 28.md",
+    "Stage 5A bilan par semaines/2024-W26.md",
     "Article review neurips 15983.md",
     "sondage de de mi stage.md",
     "Rapport de Stage/Présentation du sujet.md",

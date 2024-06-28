@@ -16,3 +16,5 @@ droit d'inscription 391€
 CVEC 103€ ?!
 
 Si  on vient déjà de l'insa normalement on garde le même compte il est juste prolongé
+
+Si on a pas d'attestion de diplome il faut au moins demander une attestion indiquant que l'on est en master 

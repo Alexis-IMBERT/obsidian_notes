@@ -13,4 +13,6 @@ pas besoin des signatures de Normandie Unniversité & INSA
 
 
 droit d'inscription 391€ 
-CVEC 103€ 
+CVEC 103€ ?!
+
+Si  on vient déjà de l'insa normalement on garde le même compte il est juste prolongé

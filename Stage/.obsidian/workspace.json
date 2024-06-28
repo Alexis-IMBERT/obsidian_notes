@@ -29,32 +29,6 @@
             }
           },
           {
-            "id": "e6e14f7f1afa1ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06a1425e271173ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "75aa22ed8d6a769a",
             "type": "leaf",
             "state": {
@@ -66,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d16db7760f73c821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Article review neurips 5861.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-28.md",
+                "file": "Article review neurips 5861.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-28.md",
+                "file": "Article review neurips 5861.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-28.md"
+                "file": "Article review neurips 5861.md"
               }
             }
           },
@@ -203,11 +191,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +211,11 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "75aa22ed8d6a769a",
+  "active": "d16db7760f73c821",
   "lastOpenFiles": [
-    "Article review neurips 15983.md",
     "DailyNotes/2024-06-28.md",
+    "Article review neurips 5861.md",
+    "Article review neurips 15983.md",
     "Stage 5A bilan par semaines/2024-W26.md",
     "DailyNotes/2024-06-27.md",
     "sondage de de mi stage.md",
@@ -252,7 +242,6 @@
     "Thèse/Dossier de candidature/Dossier de candidature.md",
     "DailyNotes/2024-05-21.md",
     "Promptfoo/Experience Francais promptfoo.md",
-    "Publication/SIFED.md",
     "Thèse/Dossier de candidature/Alexis IMBERT - CV - thses2024.pdf",
     "Thèse/PhD_project_Gauzere_Auziad.pdf",
     "Thèse/Dossier de candidature/Reelvé de notes/S9-Master.pdf",

@@ -1,4 +1,5 @@
-- [ ] Réponse mail de thierry
+- [x] Réponse mail de thierry
+- [ ] Lancement script du compte d'erreur dans les images
 - [ ] [Filter the tags for metadata to class transfer](https://redmine.teklia.com/issues/7777) 
 	- [ ] Tag2class : https://gitlab.teklia.com/clients/hikaria/scripts/-/merge_requests/13 1/2j - 1j
 	      Pipeline failded : https://gitlab.teklia.com/clients/hikaria/scripts/-/pipelines/179808

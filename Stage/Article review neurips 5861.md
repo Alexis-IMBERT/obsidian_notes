@@ -8,3 +8,4 @@ Le but est de créer un d'avoir d'abord un layout du text puis une correction pa
 > point interressant : s'interresse au ressource GPU
 
 
+Résultats : grosse amélioration en zero shot

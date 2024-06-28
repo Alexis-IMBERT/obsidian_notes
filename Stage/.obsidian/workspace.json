@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6c6ccc488b489b57",
+        "id": "8bad5f2f3dfcabcc",
         "type": "tabs",
         "children": [
           {
             "id": "14eb590792fee740",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stage 5A bilan par semaines/2024-W26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6c6ccc488b489b57",
+        "type": "tabs",
+        "children": [
           {
-            "id": "38643f81994fddbe",
+            "id": "14f5978204939edb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-28.md",
+                "file": "DailyNotes/2024-06-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +40,12 @@
             }
           },
           {
-            "id": "5b2890f272e713d2",
+            "id": "7c08ce4357ff2884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A faire Week 27 & 28.md",
+                "file": "DailyNotes/2024-06-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +53,20 @@
             }
           },
           {
-            "id": "8b7fe68cdfd2fcca",
+            "id": "e5daf81b4a72d01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-06-26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4f3ae5650e83630",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +79,7 @@
             }
           },
           {
-            "id": "75aa22ed8d6a769a",
+            "id": "46bf8399ca959d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,22 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d16db7760f73c821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Article review neurips 5861.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A faire Week 27 & 28.md",
+                "file": "Stage 5A bilan par semaines/2024-W26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A faire Week 27 & 28.md",
+                "file": "Stage 5A bilan par semaines/2024-W26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A faire Week 27 & 28.md"
+                "file": "Stage 5A bilan par semaines/2024-W26.md"
               }
             }
           },
@@ -220,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,22 +246,22 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "5b2890f272e713d2",
+  "active": "14eb590792fee740",
   "lastOpenFiles": [
-    "Stage 5A bilan par semaines/2024-W26.md",
     "DailyNotes/2024-06-28.md",
+    "Stage 5A bilan par semaines/2024-W26.md",
+    "DailyNotes/2024-06-27.md",
+    "DailyNotes/2024-06-26.md",
+    "DailyNotes/2024-06-25.md",
+    "DailyNotes/2024-06-24.md",
     "A faire Week 27 & 28.md",
     "Article review neurips 5861.md",
-    "DailyNotes/2024-06-27.md",
     "Article review neurips 15983.md",
     "sondage de de mi stage.md",
     "Rapport de Stage/Présentation du sujet.md",
-    "DailyNotes/2024-06-26.md",
     "attest_notes-insa2024-ai.pdf.md",
     "comment classer les tags.md",
     "Stage 5A bilan par semaines/2024-W25.md",
-    "DailyNotes/2024-06-25.md",
-    "DailyNotes/2024-06-24.md",
     "DailyNotes/2024-06-17.md",
     "Untitled Kanban.md",
     "voxel 51.md",

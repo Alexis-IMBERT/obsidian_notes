@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91f10f29f4e4c73a",
@@ -159,6 +158,16 @@
             }
           },
           {
+            "id": "e361946a3bfc9c23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DailyNotes/2024-06-28.md"
+              }
+            }
+          },
+          {
             "id": "d71c478b0c23515e",
             "type": "leaf",
             "state": {
@@ -166,16 +175,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e361946a3bfc9c23",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "DailyNotes/2024-06-28.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

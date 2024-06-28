@@ -8,6 +8,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "14eb590792fee740",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "5b2890f272e713d2",
             "type": "leaf",
             "state": {
@@ -52,19 +60,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article review neurips 15983.md",
+                "file": "DailyNotes/2024-06-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "14eb590792fee740",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -135,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/2024-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DailyNotes/2024-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/2024-06-28.md"
+              }
             }
           },
           {
@@ -200,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +223,7 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "14eb590792fee740",
+  "active": "75aa22ed8d6a769a",
   "lastOpenFiles": [
     "Article review neurips 15983.md",
     "DailyNotes/2024-06-28.md",

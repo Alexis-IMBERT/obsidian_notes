@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage 5A bilan par semaines/2024-W26.md",
+                "file": "A faire Week 27 & 28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-28.md",
+                "file": "A faire Week 27 & 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-28.md",
+                "file": "A faire Week 27 & 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-28.md"
+                "file": "A faire Week 27 & 28.md"
               }
             }
           },
@@ -216,11 +216,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,13 +236,13 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "38643f81994fddbe",
+  "active": "5b2890f272e713d2",
   "lastOpenFiles": [
-    "A faire Week 27 & 28.md",
+    "Stage 5A bilan par semaines/2024-W26.md",
     "DailyNotes/2024-06-28.md",
+    "A faire Week 27 & 28.md",
     "Article review neurips 5861.md",
     "DailyNotes/2024-06-27.md",
-    "Stage 5A bilan par semaines/2024-W26.md",
     "Article review neurips 15983.md",
     "sondage de de mi stage.md",
     "Rapport de Stage/Présentation du sujet.md",

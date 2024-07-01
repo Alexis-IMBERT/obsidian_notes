@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A faire Week 27 & 28.md",
+                "file": "DailyNotes/2024-07-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A faire Week 27 & 28.md",
+                "file": "DailyNotes/2024-07-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A faire Week 27 & 28.md"
+                "file": "DailyNotes/2024-07-01.md"
               }
             }
           },
@@ -196,10 +196,10 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "19d9ddb517c43cc9",
+  "active": "329de2b304880e46",
   "lastOpenFiles": [
-    "DailyNotes/2024-07-01.md",
     "A faire Week 27 & 28.md",
+    "DailyNotes/2024-07-01.md",
     "attest_notes-insa2024-ai.pdf.md",
     "Stage 5A bilan par semaines/2024-W26.md",
     "sondage de de mi stage.md",

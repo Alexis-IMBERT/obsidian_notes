@@ -2,9 +2,9 @@
 - [x] Lancement script du compte d'erreur dans les images
 - [ ] Envoyé mail à BGA pour la plannification 
 - [ ] [Filter the tags for metadata to class transfer](https://redmine.teklia.com/issues/7777) 
-	- [ ] Tag2class : https://gitlab.teklia.com/clients/hikaria/scripts/-/merge_requests/13 1/2j - 1j
+	- [x] Tag2class : https://gitlab.teklia.com/clients/hikaria/scripts/-/merge_requests/13 1/2j - 1j
 		- [x] Pipeline failded : https://gitlab.teklia.com/clients/hikaria/scripts/-/pipelines/179808
-	- [ ] https://gitlab.teklia.com/clients/hikaria/scripts/-/issues/6 1j 
+	- [x] https://gitlab.teklia.com/clients/hikaria/scripts/-/issues/6 1j 
 	- [ ] Catégorisation des tags 2 à 3 j ? dépend aussi de cke
 	      Demander sur l'utilisation (entrainer un nouveau model ou de l'évaluation avec des métriques plus fine qui dépende des metaclasse) & la construction : construction automatique ou pas
 - [ ] [image rotation classification](https://redmine.teklia.com/issues/7687) 1j

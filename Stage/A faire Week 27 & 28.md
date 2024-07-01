@@ -8,20 +8,21 @@
 	- [ ] Catégorisation des tags 2 à 3 j ? dépend aussi de cke
 	      Demander sur l'utilisation (entrainer un nouveau model ou de l'évaluation avec des métriques plus fine qui dépende des metaclasse) & la construction : construction automatique ou pas
 - [ ] [image rotation classification](https://redmine.teklia.com/issues/7687) 1j
-	- [ ] dans le git [script](https://gitlab.teklia.com/clients/hikaria/scripts) ajouter ou quel autre git ?
+	- [x] dans le git [script](https://gitlab.teklia.com/clients/hikaria/scripts) ajouter ou quel autre git ?
 		- [ ] classe 2 rotation 
 		- [ ] rotation 2 classe 
-- [ ] Entrainer segmentation sans data augmentation [cette issue](https://redmine.teklia.com/issues/7560) #yolo #segmentation #image-contour  1j 
-	- [ ] export de donnée 
-	- [ ] choix des paramètre
+- [x] Entrainer segmentation sans data augmentation [cette issue](https://redmine.teklia.com/issues/7560) #yolo #segmentation #image-contour  1j 
+	- [x] export de donnée 
+	- [x] choix des paramètre
 - [ ] Entrainer classification orientation : #yolo #classification #Image-rotation 
-	- [ ] réalisation du dataset Arkindex
+	- [ ] réalisation des dataset Arkindex
 	- [ ] faire plusieurs taille de dataset pour décrire l'évolution de la précision en fonction des données sur YOLO
+	- [ ] Export Arkindex
 	- [ ] Data Augmentation pour train et test
 	- [ ] Choix des paramètres
 	- [ ] lancement entrainement 
 	      j'aimerais bien tester sur 2 machines
-- [ ] PR YOLO : https://redmine.teklia.com/issues/7787 ? en focntion du temps
+- [ ] PR YOLO : https://redmine.teklia.com/issues/7787 ? en fonction du temps
 - [ ] Préparation de slide pour thierry
 - [ ] Préparation rapport 
 - [ ] préparation slide soutenance

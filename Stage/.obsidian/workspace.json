@@ -4,109 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8bad5f2f3dfcabcc",
+        "id": "eaaa7aadd9dd2864",
         "type": "tabs",
         "children": [
           {
-            "id": "14eb590792fee740",
+            "id": "19d9ddb517c43cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage 5A bilan par semaines/2024-W26.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f484bebd2cc776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-07-01.md",
+                "file": "A faire Week 27 & 28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6c6ccc488b489b57",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14f5978204939edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c08ce4357ff2884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5daf81b4a72d01b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-26.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4f3ae5650e83630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46bf8399ca959d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-06-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "faire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-07-01.md",
+                "file": "A faire Week 27 & 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-07-01.md",
+                "file": "A faire Week 27 & 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-07-01.md"
+                "file": "A faire Week 27 & 28.md"
               }
             }
           },
@@ -260,11 +175,13 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "c8f484bebd2cc776",
+  "active": "19d9ddb517c43cc9",
   "lastOpenFiles": [
-    "A faire Week 27 & 28.md",
-    "DailyNotes/2024-07-01.md",
+    "attest_notes-insa2024-ai.pdf.md",
     "Stage 5A bilan par semaines/2024-W26.md",
+    "sondage de de mi stage.md",
+    "DailyNotes/2024-07-01.md",
+    "A faire Week 27 & 28.md",
     "DailyNotes/2024-06-28.md",
     "DailyNotes/2024-06-27.md",
     "DailyNotes/2024-06-26.md",
@@ -272,9 +189,7 @@
     "DailyNotes/2024-06-24.md",
     "Article review neurips 5861.md",
     "Article review neurips 15983.md",
-    "sondage de de mi stage.md",
     "Rapport de Stage/Présentation du sujet.md",
-    "attest_notes-insa2024-ai.pdf.md",
     "comment classer les tags.md",
     "Stage 5A bilan par semaines/2024-W25.md",
     "DailyNotes/2024-06-17.md",

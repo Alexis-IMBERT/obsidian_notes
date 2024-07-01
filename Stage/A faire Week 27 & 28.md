@@ -16,6 +16,7 @@
 	- [ ] choix des paramètre
 - [ ] Entrainer classification orientation : #yolo #classification #Image-rotation 
 	- [ ] réalisation du dataset Arkindex
+	- [ ] faire plusieurs taille de dataset pour décrire l'évolution de la précision en fonction des données sur YOLO
 	- [ ] Data Augmentation pour train et test
 	- [ ] Choix des paramètres
 	- [ ] lancement entrainement 
